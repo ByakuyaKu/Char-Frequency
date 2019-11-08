@@ -1,0 +1,11 @@
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.csprojAssemblyReference.cache
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.csproj.CoreCompileInputs.cache
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.AssemblyInfoInputs.cache
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.AssemblyInfo.cs
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\bin\Debug\netcoreapp2.1\Freq.deps.json
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\bin\Debug\netcoreapp2.1\Freq.runtimeconfig.json
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\bin\Debug\netcoreapp2.1\Freq.runtimeconfig.dev.json
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\bin\Debug\netcoreapp2.1\Freq.dll
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\bin\Debug\netcoreapp2.1\Freq.pdb
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.dll
+C:\Users\Aspire R5-571PG\source\repos\Freq\Freq\obj\Debug\netcoreapp2.1\Freq.pdb
